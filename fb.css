@@ -1,0 +1,101 @@
+.fblogin{
+    display: inline-block;
+    margin-top: 200px;
+    margin-left: 150px;
+   
+}
+.box{
+    display: inline-block;
+}
+.fblogin h1{
+
+    color: blue;
+}
+.box{
+    display: inline-block;
+    padding: 10px 30px;
+    border: 50px;
+    margin:    0 auto;
+    background-color: white;
+    padding-top: 8px;
+    margin-top: 100px;
+    margin-left: 200px;
+    width:  20%;
+    height: 250px;
+    border: 1px;
+border-radius: 10px;
+border: solid rgb(218, 215, 215);
+}
+.fbbox{
+    padding:  20px  7px 15px 0px ;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 13px;
+   border-radius: 2.5px;
+   border: 1px;
+}
+.inpt1{
+    height: 30px;
+    width: 250px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 2.5px;
+
+     position: relative;
+}
+.inpt{
+    height: 30px;
+    width: 250px;
+    padding-left: 5px;
+   padding-right: 5px;
+   border: 1px;
+   border-radius: 2.5px;
+}
+.login{
+    height: 30px;
+    width: 250px;
+    padding-left: 5px;
+   padding-right: 5px;
+   margin-left: 2px ;
+   margin-right: 2px;
+   border-radius: 2.5px;
+ background-color: blue;
+ border: 1px;
+}
+.create{ height: 30px;
+    width: 200px;
+    padding-left: 5px;
+   padding-right: 5px;
+   margin-left: 20px ;
+   margin-right: 20px;
+  border-radius: 2.5px;
+  background-color: rgb(31, 187, 11);
+  
+}
+.txt{
+    text-align: center;
+    margin-top: 7px;
+
+}
+.row{
+    margin-left: 5px;
+    
+}
+body{
+    background-color: rgb(207, 235, 235);
+}
+.txt1{
+   margin-left: 700px;
+    color: black;
+}
+.txt1 a{
+    color: black;
+}
+.security{
+    position: absolute;
+margin-left: -55px;
+    margin-top: 8px;
+}
+#hide{
+    display: none;
+}
